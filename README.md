@@ -1,4 +1,4 @@
-# PoMPoM AdVeNtUrE 🐹
+# PoMPoM AdVeNtUrE
 
 A top-down 2D maze game built in pure Java (Swing + `javax.sound`). Every playthrough generates a brand-new maze, scatters traps and power-ups across it, and gives you 120 seconds to find one of four hidden exits before time runs out.
 
